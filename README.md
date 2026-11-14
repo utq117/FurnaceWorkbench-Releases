@@ -4,7 +4,7 @@
 
 **本地执行采集与求解，云端管理账号、订阅和反馈。**
 
-[下载安装包](https://github.com/utq117/FurnaceWorkbench-Releases/releases) · [工程设计](docs/engineering.md) · [项目经历](docs/project-experience.md)
+[下载安装包](https://github.com/utq117/FurnaceWorkbench-Releases/releases) · [工程设计](docs/engineering.md)
 
 > 本仓库用于项目展示与版本分发，应用为闭源软件。这里公开产品说明、设计概述、测试数据截图和安装包，不提供业务源码。使用客户端需要账号及有效授权。
 
