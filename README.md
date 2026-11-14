@@ -4,7 +4,7 @@
 
 **本地执行采集与求解，云端管理账号、订阅和反馈。**
 
-[下载安装包](https://github.com/shyshy1107/FurnaceWorkbench-Releases/releases) · [工程设计](docs/engineering.md) · [项目经历](docs/project-experience.md)
+[下载安装包](https://github.com/utq117/FurnaceWorkbench-Releases/releases) · [工程设计](docs/engineering.md) · [项目经历](docs/project-experience.md)
 
 > 本仓库用于项目展示与版本分发，应用为闭源软件。这里公开产品说明、设计概述、测试数据截图和安装包，不提供业务源码。使用客户端需要账号及有效授权。
 
@@ -87,7 +87,7 @@ flowchart LR
 
 ## 交付与验证
 
-项目已提供 Windows x64 预览安装包，更新内容以 [Releases](https://github.com/shyshy1107/FurnaceWorkbench-Releases/releases) 为准。
+项目已提供 Windows x64 预览安装包，更新内容以 [Releases](https://github.com/utq117/FurnaceWorkbench-Releases/releases) 为准。
 
 - 核心逻辑测试覆盖规则、状态转换、授权生命周期和反馈处理。
 - 生成后的分发界面通过浏览器自动化检查，交易相关测试使用隔离数据。
@@ -98,7 +98,7 @@ flowchart LR
 
 ## 获取与反馈
 
-从 [Releases](https://github.com/shyshy1107/FurnaceWorkbench-Releases/releases) 下载 Windows x64 安装包。已安装用户可在工作台内检查更新，使用右下角反馈入口提交问题或建议。
+从 [Releases](https://github.com/utq117/FurnaceWorkbench-Releases/releases) 下载 Windows x64 安装包。已安装用户可在工作台内检查更新，使用右下角反馈入口提交问题或建议。
 
 下载 `FurnaceWorkbench-Setup-版本-win-x64.exe` 后双击安装，每个版本附 SHA256 校验文件。GitHub 下载不便时，也可从发布 QQ 群的群文件获取相同安装包。
 
